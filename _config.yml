@@ -1,0 +1,29 @@
+name: Teeks
+favicon: null
+layout_spectrum: 0.6351395214442164
+typography_spectrum: 0.44211419206112623
+title: Teeks
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2905705515295267
+  lightness: 0.09771087788976729
+  saturation: 0.4839861812070012
+  rhythmicContrast: 0.23335657105781138
+purpose: []
