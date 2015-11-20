@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.adweek.com/news/advertising-branding/ad-day-netflix-shows-you-consequences-being-worst-kind-rat-168188'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'The mini-film is nicely done—cinematic (befitting a service that streams movies and top-quality TV shows), amusingly silly and based off an insight which, at fi'
-datePublished: '2015-11-20T05:55:35.130Z'
-dateModified: '2015-11-20T05:55:24.295Z'
+datePublished: '2015-11-20T05:56:38.145Z'
+dateModified: '2015-11-20T05:56:28.332Z'
 author: []
 title: ''
 authors: []
