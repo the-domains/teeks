@@ -1,6 +1,6 @@
 name: Teeks
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.3764
 typography_spectrum: 0.1669
 title: Teeks
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.8125
   saturation: 1
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
